@@ -13,7 +13,10 @@ My first repository
 - Sayaka Natori
 
 **Synopsis**
-Your Name (2016) is a Japanese animated film directed by Makoto Shinkai. The story follows two teenagers, Taki and Mitsuha, who mysteriously begin to swap bodies intermittently, despite having never met. As they navigate each other's lives, they leave messages to communicate, forming a deep emotional bond. Eventually, they discover that their connection is linked to a devastating natural disaster that occurred three years earlier. As they struggle to reunite and prevent the catastrophe, they realize their fates are intertwined in ways they never imagined.
+Your Name (2016) is a Japanese animated film directed by Makoto Shinkai. 
+The story follows two teenagers, Taki and Mitsuha, who mysteriously begin to swap bodies intermittently, despite having never met. As they navigate each other's lives, they leave messages to communicate, forming a deep emotional bond. 
+Eventually, they discover that their connection is linked to a devastating natural disaster that occurred three years earlier. 
+As they struggle to reunite and prevent the catastrophe, they realize their fates are intertwined in ways they never imagined.
 
 **Achievements**
 1. Box Office Success: Grossed over ¥40.2 billion ($370 million), making it the highest-grossing anime film worldwide at the time.
